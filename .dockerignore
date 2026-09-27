@@ -1,0 +1,7 @@
+.git
+.DS_Store
+.cache
+build
+_build
+compile_commands.json
+data

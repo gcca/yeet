@@ -1,0 +1,5 @@
+(executable
+ (name yeet_history)
+ (public_name yeet-history)
+ (package yeet)
+ (libraries yeet_lib))

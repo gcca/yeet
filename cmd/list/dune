@@ -1,0 +1,5 @@
+(executable
+ (name yeet_list)
+ (public_name yeet-list)
+ (package yeet)
+ (libraries yeet_lib))
