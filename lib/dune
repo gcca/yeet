@@ -1,0 +1,3 @@
+(library
+ (name yeet_lib)
+ (libraries sqlite3 unix))

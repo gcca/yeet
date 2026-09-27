@@ -1,0 +1,5 @@
+(executable
+ (name yeet_logs)
+ (public_name yeet-logs)
+ (package yeet)
+ (libraries yeet_lib))
